@@ -10,3 +10,8 @@ este teste executa no modo de desenvolvimento.
 Abra http://localhost:3000 para visualizá-lo em seu navegador
 
 
+#### para realizar o build do projeto rode o seguinte camando no terminal:
+
+### `npm build ou yarn build`
+
+
