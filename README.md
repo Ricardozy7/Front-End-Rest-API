@@ -1,6 +1,8 @@
 # Teste API
 ## utilizando React JS
 
+## caso fique tudo em branco no navegador verifique se o javaScript do navegador esta habilitado e entre na seguinte Url: "http://localhost:3000/dashboard/app"
+
 #### primeiro certifique-se de ter instaldo o nodeJS em sua maquina, após isso rode o comando `yarn ou npm` de sua preferência. Isso ira realizar a instalaçãode de todas as dependencias
 
 após isso rode o seguinte camando no terminal:
