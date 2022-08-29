@@ -3,7 +3,7 @@
 
 #### primeiro certifique-se de ter instaldo o nodeJS em sua maquina, após isso rode o comando `yarn ou npm` de sua preferência. Isso ira realizar a instalaçãode de todas as dependencias
 
-após isso execute:
+após isso rode o seguinte camando no terminal:
 ### `npm start ou yarn start`
 
 este teste executa no modo de desenvolvimento.
